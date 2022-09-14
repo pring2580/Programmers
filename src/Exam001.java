@@ -1,14 +1,14 @@
 import java.util.ArrayList;
 
 /**
-  * @FileName : Level01.java
+  * @FileName : Exam001.java
   * @Project : Programmers
   * @Date : 2022. 9. 14. 
   * @작성자 : GnG
   * @변경이력 : 
   * @프로그램 설명 : 2019 카카오 개발자 겨울 인턴십 크레인 인형뽑기 게임
  */
-public class Programmers001 {
+public class Exam001 {
 	public static void main(String[] args) {
 		int[][] a = {{0,0,0,0,0},{0,0,1,0,3},{0,2,5,0,1},{4,2,4,4,2},{3,5,1,3,1}};
 		int[] b = {1,5,3,5,1,2,1,4};
