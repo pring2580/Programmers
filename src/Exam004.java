@@ -12,7 +12,7 @@ public class Exam004 {
 		int x = 12345;
 		boolean answer = true;
         String str = String.valueOf(x);
-		//int test = Arrays.stream(str.split("")).mapToInt(Integer::new).sum(); 
+		//int test = Arrays.stream(str.split("")).mapToInt(Integer::new).sum();
         int test = 0;
         for(int i=0; i<str.length(); i++){
             test += str.charAt(i) - '0';
